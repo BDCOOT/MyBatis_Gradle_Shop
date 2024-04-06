@@ -15,7 +15,9 @@ language : Java 17
 
 Framework: Springboot(3.2.1)
 
-Database: myBatis, MySQL
+Database: MySQL
+
+ORM : myBatis
 
 ## ERD
 
