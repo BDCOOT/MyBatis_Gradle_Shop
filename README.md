@@ -15,10 +15,11 @@ language : Java 17
 
 Framework: Springboot(3.2.1)
 
-Database: JPA, MySQL
+Database: myBatis, MySQL
 
 ## ERD
-![Stay_ERD review에 reservation id 추가, recomment에 comment id 추가 reservation에 userPoint 추가](https://github.com/BDCOOT/Stay/assets/94902010/2092e442-3f5f-49b8-b69f-e19c37ecfd2d)
+
+![스크린샷 2024-04-06 192007](https://github.com/BDCOOT/MyBatis_Gradle_Shop/assets/94902010/5fd52504-dd49-4124-a010-06a723155c81)
 
 
 
