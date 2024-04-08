@@ -1,4 +1,4 @@
-![image](https://github.com/BDCOOT/MyBatis_Gradle_Shop/assets/94902010/b327bd3b-3bf7-432d-ad1b-3cc292c12f16)#shop - 개인 프로젝트
+## Shop - 개인 프로젝트
 
 ## 프로젝트 소개 
 
