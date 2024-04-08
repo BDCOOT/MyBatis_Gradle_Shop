@@ -41,5 +41,5 @@ ORM : myBatis
  상품등록
  
  
- ![image](https://github.com/BDCOOT/MyBatis_Gradle_Shop/assets/94902010/fe116a77-9cab-415d-8879-ce8b7f0b154b)
+ ![image](https://github.com/BDCOOT/MyBatis_Gradle_Shop/assets/94902010/b1336b40-cad1-4ed0-97e5-c5ad0297e698)
 
