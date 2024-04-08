@@ -1,12 +1,12 @@
-# Shop - 개인 프로젝트
+![image](https://github.com/BDCOOT/MyBatis_Gradle_Shop/assets/94902010/b327bd3b-3bf7-432d-ad1b-3cc292c12f16)#shop - 개인 프로젝트
 
 ## 프로젝트 소개 
 
-&nbsp;숙박 업소 중개 플랫폼으로 가입한 회원들 중 판매회원은 숙박업소 등록 및 객실을 추가하여 관리할 수 있고
+&nbsp;인터넷 쇼핑몰로 가입한 회원들 중 판매를 희망하는 회원은 카테고리에 맞는 상품 등록을 통하며 판매할 수 있습니다.
 
-일반회원은 예약가능한 날짜를 조회하여 예약 및 결제금액에 따른 등급과 마일리지 적립을 하고 사용할 수 있습니다. 
+일반회원은 원하는 물품을 장바구니에 넣거나 댓글을 남기고 구매를 할 수 있습니다.
 
-관리자는 숙소 ban 및 일반회원의 예약 취소, 악성 리뷰 삭제를 할 수 있습니다. 숙소 ban이 되면 일반회원이 객실을 예약하고자할 때 조회되지 않으며 예약이 불가능합니다.
+관리자는 일반회원 ban 및 판매회원 전환, 일반회원의 예약 취소, 악성 리뷰 삭제, 공지사항을 관리할 수 있습니다.
 
 ## 개발 기간 및 환경
 개발 기간 : 2024년 1월
@@ -26,21 +26,20 @@ ORM : myBatis
 
 
 ## 구현
- ![image](https://github.com/BDCOOT/Stay/assets/94902010/e66ceed4-24ae-44a8-8009-560926559ddf)
+ 비밀번호 수정
 
-
- 예약시 등급 별 적립(브론즈 1%, 실버 2%, 골드 3%, 플레티넘 4%, 다이아몬드 5%)
- ![image](https://github.com/BDCOOT/Stay/assets/94902010/6c6f622d-b692-4d4e-967c-3bdd3741f003)
-
- 예약 가능한 방 조회
- ![image](https://github.com/BDCOOT/Stay/assets/94902010/00e5afd5-8bb5-43e6-ab54-f9fd769b6571)
- ![image](https://github.com/BDCOOT/Stay/assets/94902010/21b977b7-4929-43c7-a951-e9f68075e495)
-
- 숙소 별 매출액 조회
- ![image](https://github.com/BDCOOT/Stay/assets/94902010/bfded140-ab1b-4d02-9325-adf44420a286)
+ ![image](https://github.com/BDCOOT/MyBatis_Gradle_Shop/assets/94902010/55bc38b5-0ca4-4722-8777-0a017a9c9fc8)
 
 
 
- 리뷰 작성(aws S3 내 이미지 삽입)
- ![image](https://github.com/BDCOOT/Stay/assets/94902010/6c95b797-7ab0-4178-ad65-4c5bf64ad859)
-![image](https://github.com/BDCOOT/Stay/assets/94902010/17e0931f-0523-46e2-b4ea-a29333975fd6)
+ 판매회원 전환
+
+ 
+ ![image](https://github.com/BDCOOT/MyBatis_Gradle_Shop/assets/94902010/3b6db0bb-a0ec-4c8d-a9b1-c0c186060008)
+
+
+ 상품등록
+ 
+ 
+ ![image](https://github.com/BDCOOT/MyBatis_Gradle_Shop/assets/94902010/fe116a77-9cab-415d-8879-ce8b7f0b154b)
+
